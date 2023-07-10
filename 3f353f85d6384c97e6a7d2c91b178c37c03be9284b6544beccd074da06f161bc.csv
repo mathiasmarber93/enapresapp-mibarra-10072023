@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CP01 - Validar inicio de sesion","CP0101 - Ingresar credenciales invalidas","SUCCESS","2023-07-10T15:10:17.7957003-05:00[America/Lima]","0.0","44.64"
+"CP01 - Validar inicio de sesion","CP0102 - Ingresar credenciales validas","SUCCESS","2023-07-10T15:11:04.0037254-05:00[America/Lima]","0.0","31.21"

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="CP01 - Validar inicio de sesion" skipped="0" tests="2" time="75.86" timestamp="2023-07-10 03:10:17"><testcase name="CP0101 - Ingresar credenciales invalidas"/><testcase name="CP0102 - Ingresar credenciales validas"/></testsuite>
